@@ -150,6 +150,7 @@ library
                     GHC.GHCi
                     GHC.GHCi.Helpers
                     GHC.Generics
+                    GHC.Integer.Logarithms
                     GHC.IO
                     GHC.IO.Buffer
                     GHC.IO.BufferedIO
